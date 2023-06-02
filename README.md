@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Felix
+- ✨ I’m a junior developer at a small german company.
+- 👀 I’m interested in learning and improving my programming skills
+- 📫 You can reach me via e-mail @ felix-helgers@protonmail.com
